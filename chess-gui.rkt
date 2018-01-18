@@ -451,4 +451,5 @@
             [stop-when stop?]))
 
 (test)
+(play-new 70)
                
